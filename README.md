@@ -18,3 +18,11 @@ College Intern Project which take the report from different hospital and analyze
 ## Data
 1. Unsupervised OSHA corpus
 2. Trained Malaysia corpus
+
+
+## Used Tool
+* Python
+* NLTK
+* Anaconda
+* Spyder
+* Jupyter
